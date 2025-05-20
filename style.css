@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h4{
+  font-size: 40px;
+  color: yellowgreen;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 10px 2px 10px;
+  display: flex;
+}
+body{
+  background-color: mintcream;
+  overflow: hidden;
+}
+img{
+  border-radius: 100%;
+  border: solid 1px black;
+  height: 45px;
+  width: 45px;
+  float: right;
+  margin-left: auto;
+}
+.container{
+  width: 100%;
+  height: calc(100dvh - 190px);
+  margin: 20px;
+}
+button{
+  
+}
+footer{
+  background-color: blue;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
