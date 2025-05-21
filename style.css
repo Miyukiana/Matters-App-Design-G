@@ -76,7 +76,7 @@ img:hover, .img:active {
     margin: 0;
     justify-content: space-between;
     background-color: mintcream;
-    padding: 0 8%;
+    padding-left: 8%;
 }
 #down {
     border: solid 0.5px black;
@@ -91,5 +91,4 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px;
 }
