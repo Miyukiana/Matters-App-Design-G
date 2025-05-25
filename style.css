@@ -11,9 +11,11 @@ h4 {
     padding: 2px 10px 2px 10px;
     display: flex;
 }
-span{
- margin-bottom: -10px;
+
+span {
+    margin-bottom: -10px;
 }
+
 p {
     display: flex;
     align-items: center;
@@ -31,18 +33,21 @@ img {
     height: 45px;
     width: 45px;
 }
-.other{
- border: solid 0.5px black;
-margin: 5px;
+
+.other {
+    border: solid 0.5px black;
+    margin: 5px;
 
 
 }
-.start{
+
+.start {
     border: solid 1px black;
     text-align: right;
     margin-left: auto;
     margin-right: 0;
 }
+
 .top-bar {
     display: flex;
     justify-content: space-between;
@@ -67,7 +72,9 @@ button {
     margin: 10px;
     cursor: pointer;
 }
-img:hover, .img:active {
+
+img:hover,
+.img:active {
     border: solid 2px yellowgreen;
 }
 
@@ -76,18 +83,21 @@ img:hover, .img:active {
     height: calc(100dvh - 110px);
     margin: 0;
     justify-content: space-between;
-    background-color: mintcream;
+    background: linear-gradient(to top left, rgba(153, 205, 50, 0.765), mintcream);
     padding: 0 10% 0 10%;
-    
+
 }
+
 #down {
     border: solid 0.5px black;
     margin-bottom: 3px;
 }
-#top{
+
+#top {
     border: solid 0.5px black;
     margin-top: 3px;
 }
+
 footer {
     height: 50px;
     display: flex;
